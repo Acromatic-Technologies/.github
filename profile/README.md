@@ -48,7 +48,7 @@ This project is our first step in transforming how digital infrastructure meets 
 > “Age doesn't limit innovation. Passion, curiosity, and purpose do the real work.”  
 > — *Arnav Mishra, Founder*
 
-Founded by 14-year-old technologist **Arnav Mishra**, Acromatic Technologies is driven by a vision to innovate fearlessly, build responsibly, and lead with curiosity.
+Founded by 15-year-old technologist **Arnav Mishra**, Acromatic Technologies is driven by a vision to innovate fearlessly, build responsibly, and lead with curiosity.
 
 Our mission is clear: **create powerful technologies that advance industries while preserving the environment**. We’re building a research-first, problem-solving culture that thrives on solving today’s toughest challenges with tomorrow’s technology.
 
